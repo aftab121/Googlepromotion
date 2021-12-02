@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Json;
+using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
@@ -14,7 +15,8 @@ namespace Googlepromotion.Client.Pages
     {
 
         HttpClient http = new HttpClient();
-        ResponseModel res = new ResponseModel();
+        // ResponseModel res = new ResponseModel();
+        private ResponseModel res;
         User[] user;
         PromoteBusiness promote = new PromoteBusiness();
         public string errorMessage = string.Empty;
@@ -32,17 +34,22 @@ namespace Googlepromotion.Client.Pages
 
             protected async Task PromoteBusinessForm()
         {
-            ResponseModel res = await http.GetFromJsonAsync<ResponseModel>("api/login?" + promote+"");
-            if (!res.Status)
+            http.BaseAddress = new Uri(NavManager.Uri);
+            //var url = NavManager.ToAbsoluteUri(NavManager.Uri);
+            string id = promote.UserId;
+        res = await http.GetFromJsonAsync<ResponseModel>("api/PromoteBusniess/Get?UserId=" + id + "");
+            if (res.Status != true)
             {
                 errorMessage = res.Message;
             }
             else
             {
-                promote = JsonSerializer.Deserialize<PromoteBusiness>(JsonSerializer.Serialize(res.Result), new JsonSerializerOptions
-                {
-                    PropertyNameCaseInsensitive = true
-                });
+                //                userco = JsonSerializer.Deserialize<UserContacts[]>(JsonSerializer.Serialize(res.Result), new JsonSerializerOptions
+                //{
+                //});
+                // res.Result
+
+                // }
                 //await sessionStorage.SetItemAsync("Employee", employee);
                 NavManager.NavigateTo("/Home");
             }

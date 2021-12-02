@@ -35,9 +35,11 @@ namespace Googlepromotion.Server.Controllers
             string result = ReceiveTokenGmail(code);
             res.Message = "";
             res.Status = true;
-            user.Email = "test.nextolive@gmail.com";
+             user.Email = "test.nextolive@gmail.com";
+           // user.Email = "poonampcc94@gmail.com";
             user.Contacts = result;
-            user.UserName = "Next";
+            user.UserName = "Next Olive";
+            //user.UserName = "Poonam Yadav";
             user.status = true;
             user.create_Date = Convert.ToDateTime(DateTime.Now.ToShortDateString());
             res.Result = user.Email;

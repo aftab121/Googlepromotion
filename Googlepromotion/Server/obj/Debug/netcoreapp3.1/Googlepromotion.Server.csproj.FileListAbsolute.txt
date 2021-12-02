@@ -464,16 +464,7 @@ C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromo
 C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.AssemblyReference.cache
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfoInputs.cache
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfo.cs
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CoreCompileInputs.cache
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cache
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cs
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.StaticWebAssets.xml
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -628,7 +619,6 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.StaticWebAssets.xml
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.StaticWebAssets.xml
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.exe
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.deps.json
@@ -644,6 +634,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Oauth2.v2.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\MailChimp.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
@@ -669,6 +660,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
@@ -685,6 +677,14 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.pdb
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.AssemblyReference.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfoInputs.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfo.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CoreCompileInputs.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cs
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.Manifest.cache
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.xml
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.input.cache
@@ -696,4 +696,6 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cs
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CopyComplete
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.genruntimeconfig.cache

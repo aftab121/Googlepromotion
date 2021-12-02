@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Googlepromotion.Client.dll": "sha256-yatYdeR+UmQ1j8ODsNV04RKs+UoL0ztg\/c++kyXaz80=",
+      "Googlepromotion.Client.dll": "sha256-oI5LPqzcfFOiqgbL3LPKMgtgDqlMuMU50qnX4AInCJM=",
       "Microsoft.CSharp.dll": "sha256-ubyINHXDmWOAugBDEb8CCz+uV68eordXiYDxpUeRBvg=",
       "System.Core.dll": "sha256-Zw2\/5aDWjgMedporhjigwhi\/UCLcfl0tfa0LXUyD9HE=",
       "System.dll": "sha256-r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=",
@@ -65,7 +65,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Googlepromotion.Client.pdb": "sha256-S4yIoblS9+h0OCD+T1xYYdX3Z8vBDCF5b+2Uk96cbfQ=",
+      "Googlepromotion.Client.pdb": "sha256-HK8Qlc9mLphaCFNHwsFteWmGxJgu99eb3qju3sf2Amc=",
       "Googlepromotion.Shared.pdb": "sha256-nkB9IwFsxW0oORAaFNa2qeg+EroKcRtXLoOdhN9BzNQ="
     },
     "runtime": {

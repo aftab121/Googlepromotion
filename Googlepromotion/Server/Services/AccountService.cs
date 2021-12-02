@@ -24,12 +24,20 @@ namespace Googlepromotion.Server.Services
             }
             else
             {
-                string query1 = "Insert into Login_User values ('" + user.Email + "','" + user.UserName + "','" + null + "','2021-01-01 00:00:00.000','" + user.status + "')";
-                var data = dataAccess.ExecuteNonQuery_IUD(query1);
-                foreach(var con in contacts)
+                string data = "";
+              string query1 = "Insert into Login_User values ('" + user.Email + "','" + user.UserName + "','" + null + "','"+DateTime.Now.ToString()+"','" + user.status + "')";
+                dataAccess.ExecuteNonQuery_IUD(query1);
+                string query2 = "SELECT * FROM Login_User where UserEmail='" + user.Email + "'";
+                dtContainer = dataAccess.DataTable_return(query2);
+                foreach (DataRow row in dtContainer.Rows)
                 {
-                    string query2 = "Insert into User_Contacts values ('" + con.Contact + "','2021-01-01 00:00:00.000','" +data+"')";
-                    dataAccess.ExecuteNonQuery_IUD(query2);
+                    data = row["Id"].ToString();
+                   
+                }
+                foreach (var con in contacts)
+                {
+                    string query3 = "Insert into User_Contacts values ('" + con.Contact + "','" + DateTime.Now.ToString() + "','" + data+"')";
+                    dataAccess.ExecuteNonQuery_IUD(query3);
                 }
                
             }
@@ -72,6 +80,27 @@ namespace Googlepromotion.Server.Services
             {
                 return false;
             }
+        }
+
+        public List<UserContacts> GetContacts(string Username)
+        {
+
+            List<UserContacts> order = new List<UserContacts>();
+            try
+            {
+                //  Username = "";
+                string query = "SSELECT User_Contacts.Contact FROM User_Contacts INNER JOIN Login_User ON User_Contacts.UserId = Login_User.Id where Login_User.UserEmail = '" + Username + "'";
+                dtContainer = dataAccess.DataTable_return(query);
+                if (dtContainer.Rows.Count > 0)
+                {
+                    order = GenerateSQL.ConvertToList<UserContacts>(dtContainer);
+                }
+            }
+            catch (Exception ex)
+            {
+                // LogManager.InsertLog(LogTypeEnum.DatabaseOprationError, ex.Message, ex);
+            }
+            return order;
         }
     }
 }

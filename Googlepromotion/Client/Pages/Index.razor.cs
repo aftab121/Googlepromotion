@@ -78,7 +78,7 @@ namespace Googlepromotion.Client.Pages
             http.BaseAddress = new Uri(NavManager.Uri);
             var url = NavManager.ToAbsoluteUri(NavManager.Uri);
             res = await http.GetFromJsonAsync<ResponseModel>("api/signin/get?code=" + code);
-            if (res.Status = true)
+            if (res.Status == true)
             {
 
                 await sessionStorage.SetItemAsync("Profile", res.Email);

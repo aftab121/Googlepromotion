@@ -173,6 +173,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "MailChimp.NET": {
+              "target": "Package",
+              "version": "[1.1.92, )"
+            },
             "Microsoft.AspNetCore.Authentication.Google": {
               "target": "Package",
               "version": "[3.1.0, )"

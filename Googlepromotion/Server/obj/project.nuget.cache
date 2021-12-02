@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bQE5S57Ytq3EUXXbabGznSBLmbMlWTLN3tYQC1UzX0Amze+aXapyr33RYJDxUeFlXC4E575yn1b1jvD7zxadAg==",
+  "dgSpecHash": "TpBSkBOd9UZEsgLOg4/1LCFM6yOoQCTsp9o+jGu34mapPgiXwUb4oXUrRc6uxCUHeA91HoWV3aD/e7wH8J6SLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Server\\Googlepromotion.Server.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis.oauth2.v2\\1.55.0.1869\\google.apis.oauth2.v2.1.55.0.1869.nupkg.sha512",
+    "C:\\Users\\upkar\\.nuget\\packages\\mailchimp.net\\1.1.92\\mailchimp.net.1.1.92.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.1.0\\microsoft.aspnetcore.authentication.google.3.1.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.14\\microsoft.aspnetcore.authorization.3.1.14.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.14\\microsoft.aspnetcore.components.3.1.14.nupkg.sha512",
@@ -46,6 +47,7 @@
     "C:\\Users\\upkar\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\upkar\\.nuget\\packages\\servicestack.text\\3.9.71\\servicestack.text.3.9.71.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
@@ -55,5 +57,26 @@
     "C:\\Users\\upkar\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MailChimp.NET 1.1.92' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "MailChimp.NET",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack.Text 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack.Text",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

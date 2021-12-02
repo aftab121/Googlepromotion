@@ -66,6 +66,18 @@
           "lib/netstandard2.0/Google.Apis.Oauth2.v2.dll": {}
         }
       },
+      "MailChimp.NET/1.1.92": {
+        "type": "package",
+        "dependencies": {
+          "ServiceStack.Text": "[3.9.71]"
+        },
+        "compile": {
+          "lib/net40/MailChimp.dll": {}
+        },
+        "runtime": {
+          "lib/net40/MailChimp.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.Google/3.1.0": {
         "type": "package",
         "compile": {
@@ -496,6 +508,15 @@
           }
         }
       },
+      "ServiceStack.Text/3.9.71": {
+        "type": "package",
+        "compile": {
+          "lib/net35/ServiceStack.Text.dll": {}
+        },
+        "runtime": {
+          "lib/net35/ServiceStack.Text.dll": {}
+        }
+      },
       "System.Buffers/4.5.0": {
         "type": "package",
         "compile": {
@@ -751,6 +772,19 @@
         "lib/netstandard2.0/Google.Apis.Oauth2.v2.dll",
         "lib/netstandard2.0/Google.Apis.Oauth2.v2.pdb",
         "lib/netstandard2.0/Google.Apis.Oauth2.v2.xml"
+      ]
+    },
+    "MailChimp.NET/1.1.92": {
+      "sha512": "/yY9HRaGFHq9cWQnvm5/ZEZ0PeIw+BwgDechLMnxddGPXVrKhcKEy9bX48Tp05MziCrRhWt7p9YoMSRfN6201w==",
+      "type": "package",
+      "path": "mailchimp.net/1.1.92",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/MailChimp.dll",
+        "lib/net40/MailChimp.dll",
+        "mailchimp.net.1.1.92.nupkg.sha512",
+        "mailchimp.net.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication.Google/3.1.0": {
@@ -1584,6 +1618,25 @@
         "version.txt"
       ]
     },
+    "ServiceStack.Text/3.9.71": {
+      "sha512": "+nIZF3d2o50W4/DjtfN21AzH1shaRlEiixgFISx3v5WD4WJVRd3WLmW75+SIiPOnCQAoZ+zbGX91hrBNkx+7xg==",
+      "type": "package",
+      "path": "servicestack.text/3.9.71",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/ServiceStack.Text.XML",
+        "lib/net35/ServiceStack.Text.dll",
+        "lib/sl4-windowsphone71/ServiceStack.Text.WP.XML",
+        "lib/sl4-windowsphone71/ServiceStack.Text.WP.dll",
+        "lib/sl4/ServiceStack.Text.dll",
+        "lib/sl4/ServiceStack.Text.xml",
+        "lib/sl5/ServiceStack.Text.XML",
+        "lib/sl5/ServiceStack.Text.dll",
+        "servicestack.text.3.9.71.nupkg.sha512",
+        "servicestack.text.nuspec"
+      ]
+    },
     "System.Buffers/4.5.0": {
       "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
       "type": "package",
@@ -1876,6 +1929,7 @@
       "Blazored.SessionStorage >= 2.2.0",
       "Googlepromotion.Client >= 1.0.0",
       "Googlepromotion.Shared >= 1.0.0",
+      "MailChimp.NET >= 1.1.92",
       "Microsoft.AspNetCore.Authentication.Google >= 3.1.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 3.2.1",
       "Microsoft.AspNetCore.WebUtilities >= 2.2.0",
@@ -1941,6 +1995,10 @@
             "target": "Package",
             "version": "[2.2.0, )"
           },
+          "MailChimp.NET": {
+            "target": "Package",
+            "version": "[1.1.92, )"
+          },
           "Microsoft.AspNetCore.Authentication.Google": {
             "target": "Package",
             "version": "[3.1.0, )"
@@ -1989,5 +2047,27 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MailChimp.NET 1.1.92' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "MailChimp.NET",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ServiceStack.Text 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ServiceStack.Text",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

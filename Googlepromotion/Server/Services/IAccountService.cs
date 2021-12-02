@@ -11,6 +11,6 @@ namespace Googlepromotion.Server.Services
         public abstract bool SaveUserDetails(User user,List<UserContacts> contacts);
         public abstract List<User> GetProfile(string Username);
       public abstract bool SavePromoteBusniessDetails(PromoteBusiness promote);
-
+        public abstract List<UserContacts> GetContacts(string Username);
     }
 }
