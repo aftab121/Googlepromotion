@@ -1,0 +1,29 @@
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.deps.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.AssemblyInfoInputs.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.AssemblyInfo.cs
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.CoreCompileInputs.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.deps.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.AssemblyInfo.cs
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.AssemblyReference.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.deps.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\bin\Debug\netstandard2.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.AssemblyInfoInputs.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.AssemblyInfo.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.CoreCompileInputs.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.pdb

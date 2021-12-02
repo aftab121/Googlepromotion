@@ -1,0 +1,41 @@
+﻿@page "/Promote_Business"
+<h3>Promote_Business</h3>
+<section class="wizard-section">
+    <div class="row no-gutters">
+
+        <div class="col-lg-6 col-md-6">
+            <div class="form-wizard">
+                <EditForm Model="@promote" OnValidSubmit="@PromoteBusinessForm" class="form-signin">
+
+                    <fieldset class="wizard-fieldset show">
+                        <h5>Promote Business</h5><p>@promote.UserId"</p>
+
+                        <div class="form-group">
+                            <input type="text" class="form-control wizard-required" id="Name" placeholder="Name*" @bind-value="promote.Name">
+
+                            <div class="wizard-form-error"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="file" class="form-control wizard-required" id="Logo" placeholder="" @bind-value="promote.Logo">Logo*
+                            <div class="wizard-form-error"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control wizard-required" id="Link" placeholder="Link*" @bind-value="promote.Website_Link">
+                            <div class="wizard-form-error"></div>
+                        </div>
+
+                        <div class="form-group clearfix">
+                            <input type="submit" value="Blast" class="form-control"/>
+                        </div>
+                        <span class=" field-validation-error">
+                            <span>@errorMessage</span>
+                        </span>
+                    </fieldset>
+                    </EditForm>>
+</div>
+        </div>
+    </div>
+</section>
+@code {
+
+}

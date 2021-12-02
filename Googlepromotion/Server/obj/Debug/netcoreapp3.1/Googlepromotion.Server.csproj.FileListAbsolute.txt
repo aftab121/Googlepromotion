@@ -1,0 +1,699 @@
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.StaticWebAssets.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.StaticWebAssets.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.exe
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.deps.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.runtimeconfig.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.runtimeconfig.dev.json
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.Views.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Blazored.SessionStorage.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Oauth2.v2.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Client.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Contacts.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Extensions.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.AssemblyReference.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfoInputs.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfo.cs
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CoreCompileInputs.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cs
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.Manifest.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.xml
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.input.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.output.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorCoreGenerate.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cs
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CopyComplete
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.genruntimeconfig.cache
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Apps.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Blogger.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Calendar.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.ContentForShopping.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Documents.dll
+C:\Users\upkar\Desktop\Blazor Api\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.AccessControl.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfo.cs
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.StaticWebAssets.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.StaticWebAssets.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.exe
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.deps.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.runtimeconfig.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.Views.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Blazored.SessionStorage.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Oauth2.v2.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Apps.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Client.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Contacts.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Extensions.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.xml
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\Googlepromotion.Server.styles.css
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.input.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.output.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CopyComplete
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.genruntimeconfig.cache
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Desktop\Current google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.AssemblyReference.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfoInputs.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.AssemblyInfo.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CoreCompileInputs.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorAssemblyInfo.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Authorization.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Hosting.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Http.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Metadata.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Routing.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Hosting.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Console.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.ObjectPool.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Options.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Extensions.Primitives.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.Net.Http.Headers.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.Diagnostics.EventLog.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\System.IO.Pipelines.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x64\aspnetcorev2_inprocess.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\x86\aspnetcorev2_inprocess.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.StaticWebAssets.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.StaticWebAssets.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.exe
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.deps.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.runtimeconfig.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.runtimeconfig.dev.json
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.Views.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Blazored.SessionStorage.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Oauth2.v2.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Apps.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Client.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Contacts.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.GData.Extensions.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Client.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.Manifest.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\staticwebassets\Googlepromotion.Server.StaticWebAssets.xml
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.input.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.TagHelpers.output.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorCoreGenerate.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cache
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.RazorTargetAssemblyInfo.cs
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.Views.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.csproj.CopyComplete
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\obj\Debug\netcoreapp3.1\Googlepromotion.Server.genruntimeconfig.cache
