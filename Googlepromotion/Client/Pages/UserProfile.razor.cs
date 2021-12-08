@@ -37,6 +37,7 @@ public partial class UserProfile:ComponentBase
                 {
                     PropertyNameCaseInsensitive = true
                 });
+                await sessionStorage.SetItemAsync("UserName", user[0].Profile);
             }
             //await JS.InvokeAsync<string>("LoadDataTable", null);
         }

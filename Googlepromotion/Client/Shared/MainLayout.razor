@@ -6,10 +6,31 @@
 
 <div class="main">
     <div class="top-row px-4">
-        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
+      
+        @if (user != null)
+        {
+            
+                <a href="/Profile" class="ml-md-auto"><img src=@user style="height:40px;width:40px;border-radius:50%" /></a>
+      
+        }
     </div>
-
+   
     <div class="content px-4">
         @Body
     </div>
 </div>
+
+@code{
+
+    @inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+    private string user;
+
+         protected override async Task OnInitializedAsync()
+    {
+
+      
+        var data = await sessionStorage.GetItemAsync<string>("UserName");
+      user = data;
+
+    }
+}

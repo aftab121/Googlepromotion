@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\oI5LPqzcfFOiqgbL3LPKMgtgDqlMuMU50qnX4AInCJM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\uIn8VdeBIzNLK8ClkUWa-Boy9GJxIJWbINZIKhGc76I=.hash",
       "Source": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Googlepromotion.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Googlepromotion.Client.dll.gz"
     },
@@ -211,7 +211,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YS-cvxC8O7-NMCxOaxst3uyoaMg_EUYHZFqaF4jaXoI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YGDmChrSgN534V_ynxDu5ul7JLNbGGmycqLDF4zV9DY=.hash",
       "Source": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Googlepromotion.Shared.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Googlepromotion.Shared.dll.gz"
     },
@@ -286,12 +286,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HK8Qlc9mLphaCFNHwsFteWmGxJgu99eb3qju3sf2Amc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\J6LABYSVJEO7bpCC7gs6gpvkHLLA64X6EF090WTvV1E=.hash",
       "Source": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Googlepromotion.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Googlepromotion.Client.pdb.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nkB9IwFsxW0oORAaFNa2qeg_EroKcRtXLoOdhN9BzNQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\TAvgc3BlmxSWYn5w_AEi-c2lY9kohhaIg0fbgdoe7Q8=.hash",
       "Source": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Googlepromotion.Shared.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Googlepromotion.Shared.pdb.gz"
     },
@@ -316,7 +316,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\2-A-NOrNrQaa_-U0Hly9n2N2Dlm5aqf37nm5paDOrA8=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\v-rdU6d-pim-ffsubc024XWQP2O8OEWuF4QAAz84ggc=.hash",
       "Source": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

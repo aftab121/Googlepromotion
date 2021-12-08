@@ -96,6 +96,14 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Linq.Queryable": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
             "System.Net.Http.Json": {
               "target": "Package",
               "version": "[3.2.0, )"
@@ -189,6 +197,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -196,6 +208,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
+            },
+            "System.Linq.Queryable": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             }
           },
           "imports": [
@@ -275,6 +291,14 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Linq.Queryable": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             }
           },
           "imports": [

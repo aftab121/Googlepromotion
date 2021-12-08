@@ -27,3 +27,4 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.CoreCompileInputs.cache
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.pdb
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Shared\obj\Debug\netstandard2.1\Googlepromotion.Shared.csproj.AssemblyReference.cache

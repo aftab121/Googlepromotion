@@ -53,6 +53,14 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Linq.Queryable": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             }
           },
           "imports": [

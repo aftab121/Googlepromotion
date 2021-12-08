@@ -25,7 +25,7 @@ namespace Googlepromotion.Server.Services
             else
             {
                 string data = "";
-              string query1 = "Insert into Login_User values ('" + user.Email + "','" + user.UserName + "','" + null + "','"+DateTime.Now.ToString()+"','" + user.status + "')";
+              string query1 = "Insert into Login_User values ('" + user.Email + "','" + user.UserName + "','" + user.Profile + "','"+DateTime.Now.ToString()+"','" + user.status + "')";
                 dataAccess.ExecuteNonQuery_IUD(query1);
                 string query2 = "SELECT * FROM Login_User where UserEmail='" + user.Email + "'";
                 dtContainer = dataAccess.DataTable_return(query2);
@@ -54,7 +54,7 @@ namespace Googlepromotion.Server.Services
             try
             {
               //  Username = "";
-                string query = "SELECT Id,UserEmail as Email,UserName,create_Date,Status,UserProfile FROM Login_User where UserEmail='" + Username + "'";
+                string query = "SELECT Id,UserEmail as Email,UserName,create_Date,Status,UserProfile as Profile FROM Login_User where UserEmail='" + Username + "'";
                 dtContainer = dataAccess.DataTable_return(query);
                 if (dtContainer.Rows.Count > 0)
                 {
@@ -88,8 +88,8 @@ namespace Googlepromotion.Server.Services
             List<UserContacts> order = new List<UserContacts>();
             try
             {
-                //  Username = "";
-                string query = "SSELECT User_Contacts.Contact FROM User_Contacts INNER JOIN Login_User ON User_Contacts.UserId = Login_User.Id where Login_User.UserEmail = '" + Username + "'";
+                
+                string query = "SELECT User_Contacts.Contact FROM User_Contacts INNER JOIN Login_User ON User_Contacts.UserId = Login_User.Id where Login_User.UserEmail = '" + Username + "'";
                 dtContainer = dataAccess.DataTable_return(query);
                 if (dtContainer.Rows.Count > 0)
                 {
@@ -98,7 +98,7 @@ namespace Googlepromotion.Server.Services
             }
             catch (Exception ex)
             {
-                // LogManager.InsertLog(LogTypeEnum.DatabaseOprationError, ex.Message, ex);
+               
             }
             return order;
         }

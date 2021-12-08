@@ -190,8 +190,10 @@ using Google.GData.Extensions;
         string redirectUrl = "https://localhost:44320/Index";
         // Response.Redirect("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
 
-        NavManager.NavigateTo("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
-        // var name = clientId;
+        //  NavManager.NavigateTo("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
+
+        string url = "https://accounts.google.com/o/oauth2/v2/auth?scope=profile&include_granted_scopes=true&redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "";
+        NavManager.NavigateTo(url);
     }
 
 

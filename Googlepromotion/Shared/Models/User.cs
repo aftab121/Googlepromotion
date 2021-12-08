@@ -10,6 +10,7 @@ namespace Googlepromotion.Shared.Models
         public string UserName { get; set; }
         public string Email { get; set; }
         public string Contacts { get; set; }
+        public string Profile { get; set; }
         public bool status { get; set; }
         public DateTime create_Date { get; set; }
 
@@ -22,5 +23,16 @@ namespace Googlepromotion.Shared.Models
     {
        
         public string Contact { get; set; }
+    }
+    public class Userclass
+    {
+        public string id { get; set; }
+        public string name { get; set; }
+        public string given_name { get; set; }
+        public string family_name { get; set; }
+        public string link { get; set; }
+        public string picture { get; set; }
+        public string gender { get; set; }
+        public string locale { get; set; }
     }
 }

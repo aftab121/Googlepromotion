@@ -30,15 +30,14 @@ namespace Googlepromotion.Server.Controllers
 
                 if (user.Count != 0)
                 {
-                    //var emailid = "poonampcc94@gmail.com";
+
                     foreach (UserContacts Contact in user)
                     {
-                        //var data = userco[0].Contact;
-                        MailChimpManager mc = new MailChimpManager("809dc020de08bbbf958050dda93401ab-us20");
+                      
+                        MailChimpManager mc = new MailChimpManager("7c1cf16d68b6794915c9a09c815197e6-us20");
                         EmailParameter email = new EmailParameter()
                         {
                             Email = Contact.Contact
-
                         };
                         EmailParameter results = mc.Subscribe("5168a5da23", email);
                         var resss = results;

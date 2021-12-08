@@ -82,9 +82,25 @@ using Googlepromotion.Client.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 26 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Shared\MainLayout.razor"
+    private string user;
+
+         protected override async Task OnInitializedAsync()
+    {
+
+      
+        var data = await sessionStorage.GetItemAsync<string>("UserName");
+      user = data;
+
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private Blazored.SessionStorage.ISessionStorageService sessionStorage { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JS { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavManager { get; set; }
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private Blazored.SessionStorage.ISessionStorageService sessionStorage { get; set; }
     }
 }
 #pragma warning restore 1591
