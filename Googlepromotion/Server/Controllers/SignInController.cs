@@ -4,20 +4,14 @@ using Google.GData.Contacts;
 using Google.GData.Extensions;
 using Googlepromotion.Shared.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.WebUtilities;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Net;
 using System.Text;
-using System.Threading.Tasks;
 using Googlepromotion.Server.Services;
 using Nancy.Json;
-using Google.Apis.Auth.OAuth2;
-using MailChimp.Lists;
-using System.Runtime.InteropServices.ComTypes;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -129,10 +123,6 @@ namespace Googlepromotion.Server.Controllers
                 res.Status = false;
             return res;
         }
-
-
-        //////////////////////////////////////////
-        ///
         public void GetuserProfile(string accesstoken)
         {
             string url = "https://www.googleapis.com/oauth2/v1/userinfo?alt=json&access_token=" + accesstoken + "";

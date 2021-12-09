@@ -7,10 +7,18 @@
 namespace Googlepromotion.Client.Pages
 {
     #line hidden
+    using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
+#nullable restore
+#line 1 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\_Imports.razor"
+using System.Net.Http;
+
+#line default
+#line hidden
+#nullable disable
 #nullable restore
 #line 2 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\_Imports.razor"
 using System.Net.Http.Json;
@@ -74,76 +82,6 @@ using Microsoft.AspNetCore.WebUtilities;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 200 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using System.Net.Http;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 201 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using System;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 202 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using System.IO;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 203 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using System.Text;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 204 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using System.Net;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 205 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using Newtonsoft.Json;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 206 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using Google.GData.Client;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 207 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using Google.Contacts;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 208 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using Google.GData.Contacts;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 209 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-using Google.GData.Extensions;
-
-#line default
-#line hidden
-#nullable disable
     [Microsoft.AspNetCore.Components.LayoutAttribute(typeof(EmptyLayout))]
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Login : Microsoft.AspNetCore.Components.ComponentBase
@@ -157,16 +95,6 @@ using Google.GData.Extensions;
 #line 198 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
        
     private string emaildiv;
-    
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 209 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\Login.razor"
-                                   
-
-
     protected override void OnInitialized()
     {
         // variable = "hello world";

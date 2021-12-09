@@ -75,13 +75,6 @@ using Googlepromotion.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\Pages\UserProfile.razor"
-using Googlepromotion.Shared.Models;
-
-#line default
-#line hidden
-#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/Profile")]
     public partial class UserProfile : Microsoft.AspNetCore.Components.ComponentBase
     {
