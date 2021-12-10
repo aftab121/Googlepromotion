@@ -15,11 +15,13 @@ namespace Googlepromotion.Client.Pages
         public string scret;
         public string variable;
         private string loader;
+        private string errormsg = "";
+        private string User = "";
         protected override async Task OnInitializedAsync()
         {
             http.BaseAddress = new Uri(NavManager.Uri);
             var url = NavManager.ToAbsoluteUri(NavManager.Uri);
-            var data = await sessionStorage.GetItemAsync<string>("Profile");
+            User = await sessionStorage.GetItemAsync<string>("Profile");
         }
         public async Task GetAccessToken()
         {
@@ -48,9 +50,26 @@ namespace Googlepromotion.Client.Pages
                 //    PropertyNameCaseInsensitive = true
                 //});
                 //await sessionStorage.SetItemAsync("Profile", user);
+                NavManager.NavigateTo("/Profile");
             }
-            NavManager.NavigateTo("/Profile");
+            else
+            {
+                errormsg = "Your Token is Expired.Plese Login Again";
+            }
+            loader = "";
+            
 
+        }
+        public void googleButton_Click()
+        {
+            string clientId = "246162259773-vn416ss3gi6h8j444ch8gsllao8v45m9.apps.googleusercontent.com";
+            string redirectUrl = "https://localhost:44320/Index";
+            // Response.Redirect("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
+
+            //  NavManager.NavigateTo("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
+
+            string url = "https://accounts.google.com/o/oauth2/v2/auth?scope=profile&include_granted_scopes=true&redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "";
+            NavManager.NavigateTo(url);
         }
     }
 }

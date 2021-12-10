@@ -28,7 +28,6 @@ namespace Googlepromotion.Server.Controllers
         [HttpGet]
         public ResponseModel Get(string code)
         {
-          
             string result = ReceiveTokenGmail(code);
             res.Message = "";
             res.Status = true;
@@ -38,6 +37,10 @@ namespace Googlepromotion.Server.Controllers
             res.Result = user;
             res.Email= user.Email;
             service.SaveUserDetails(user,contacts);
+            if(user==null&&contacts.Count==0)
+            {
+                res.Status = false;
+            }
             return res;
         }
         public string GetContacts(GooglePlusAccessToken serStatus)
@@ -56,7 +59,7 @@ namespace Googlepromotion.Server.Controllers
             RequestSettings settings = new RequestSettings("<var>YOUR_APPLICATION_NAME</var>", oAuthparameters);
             ContactsRequest cr = new ContactsRequest(settings);
             ContactsQuery query = new ContactsQuery(ContactsQuery.CreateContactsUri("default"));
-            query.NumberToRetrieve = 5000;
+            query.NumberToRetrieve = 500;
             Feed<Contact> feed = cr.Get<Contact>(query);
             List<UserContacts> user = new List<UserContacts>();
             StringBuilder sb = new StringBuilder();
@@ -125,7 +128,10 @@ namespace Googlepromotion.Server.Controllers
         }
         public void GetuserProfile(string accesstoken)
         {
-            string url = "https://www.googleapis.com/oauth2/v1/userinfo?alt=json&access_token=" + accesstoken + "";
+            //  string url = "https://www.googleapis.com/oauth2/v1/userinfo?alt=json&access_token=" + accesstoken + "";
+            string url = "https://www.googleapis.com/oauth2/v3/userinfo?alt=json&access_token=" + accesstoken + "";
+
+            
             WebRequest request = WebRequest.Create(url);
             request.Credentials = CredentialCache.DefaultCredentials;
             WebResponse response = request.GetResponse();
@@ -136,9 +142,10 @@ namespace Googlepromotion.Server.Controllers
             response.Close();
             JavaScriptSerializer js = new JavaScriptSerializer();
             Userclass userinfo = js.Deserialize<Userclass>(responseFromServer);
-            user.Email = userinfo.id;
+            user.Email = userinfo.email;
             user.UserName = userinfo.name;
             user.Profile = userinfo.picture;
+
         }
     }
 }

@@ -46,6 +46,10 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "MailChimp.Net.V3": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.WebUtilities": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -57,10 +61,6 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
-            },
-            "System.Linq.Queryable": {
-              "target": "Package",
-              "version": "[4.0.0, )"
             }
           },
           "imports": [

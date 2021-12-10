@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bvJgUJHzE01gugxMhFMYe7LePxtsGjJA8U9jflOuZ8kuf3s7HWkBGsM1mUugDsDKECz2c6QfI5M3Bu+wW+etDg==",
+  "dgSpecHash": "6IyHXggl5a6GEyYglLp2EdqP+vyBH9KlD9oZiE9lLPHIzbSAS7t1rsVF7GMzOSkS0DRCBK88DWiCc6KDKG9PwQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis.oauth2.v2\\1.55.0.1869\\google.apis.oauth2.v2.1.55.0.1869.nupkg.sha512",
+    "C:\\Users\\upkar\\.nuget\\packages\\mailchimp.net.v3\\3.0.0\\mailchimp.net.v3.3.0.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.0\\microsoft.aspnetcore.authentication.2.1.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.0\\microsoft.aspnetcore.authentication.core.2.1.0.nupkg.sha512",

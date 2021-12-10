@@ -35,6 +35,7 @@
           "Googlepromotion.Client": "1.0.0",
           "Googlepromotion.Shared": "1.0.0",
           "MailChimp.NET": "1.1.92",
+          "MailChimp.Net.V3": "3.0.0",
           "Microsoft.AspNetCore.Authentication.Google": "3.1.0",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "3.2.1",
           "Microsoft.AspNetCore.WebUtilities": "2.2.0",
@@ -404,6 +405,24 @@
         },
         "compile": {
           "lib/net40/MailChimp.dll": {}
+        }
+      },
+      "MailChimp.Net.V3/3.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.1.6",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.1.6",
+          "Microsoft.Extensions.Configuration.Json": "3.1.6",
+          "Microsoft.Extensions.Options": "3.1.14",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MailChimp.Net.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/MailChimp.Net.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication.Google/3.1.0": {
@@ -1765,6 +1784,7 @@
           "Google.Apis": "1.55.0",
           "Google.Apis.Oauth2.v2": "1.55.0.1869",
           "Googlepromotion.Shared": "1.0.0",
+          "MailChimp.Net.V3": "3.0.0",
           "Microsoft.AspNetCore.Authentication.Google": "3.1.0",
           "Microsoft.AspNetCore.Components.Authorization": "3.1.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
@@ -1784,10 +1804,10 @@
       },
       "Googlepromotion.Shared/1.0.0": {
         "dependencies": {
+          "MailChimp.Net.V3": "3.0.0",
           "Microsoft.AspNetCore.WebUtilities": "2.2.0",
           "Newtonsoft.Json": "13.0.1",
-          "System.Data.SqlClient": "4.8.3",
-          "System.Linq.Queryable": "4.0.0"
+          "System.Data.SqlClient": "4.8.3"
         },
         "runtime": {
           "Googlepromotion.Shared.dll": {}
@@ -3455,6 +3475,13 @@
       "sha512": "sha512-/yY9HRaGFHq9cWQnvm5/ZEZ0PeIw+BwgDechLMnxddGPXVrKhcKEy9bX48Tp05MziCrRhWt7p9YoMSRfN6201w==",
       "path": "mailchimp.net/1.1.92",
       "hashPath": "mailchimp.net.1.1.92.nupkg.sha512"
+    },
+    "MailChimp.Net.V3/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CQTkF+eRz3Y4L4Kxlu9OumFAeaghFA6ZUElnaDuyYqNReZhTfCDrJ+kjE734Ao8apXQbyIihKFRD2RdWP+3StQ==",
+      "path": "mailchimp.net.v3/3.0.0",
+      "hashPath": "mailchimp.net.v3.3.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.Google/3.1.0": {
       "type": "package",

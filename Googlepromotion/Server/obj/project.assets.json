@@ -78,6 +78,22 @@
           "lib/net40/MailChimp.dll": {}
         }
       },
+      "MailChimp.Net.V3/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "1.1.2",
+          "Microsoft.Extensions.Configuration.FileExtensions": "1.1.2",
+          "Microsoft.Extensions.Configuration.Json": "1.1.2",
+          "Microsoft.Extensions.Options": "1.1.2",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/MailChimp.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MailChimp.Net.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.Google/3.1.0": {
         "type": "package",
         "compile": {
@@ -2088,6 +2104,7 @@
           "Google.Apis": "1.55.0",
           "Google.Apis.Oauth2.v2": "1.55.0.1869",
           "Googlepromotion.Shared": "1.0.0",
+          "MailChimp.Net.V3": "3.0.0",
           "Microsoft.AspNetCore.Authentication.Google": "2.1.0",
           "Microsoft.AspNetCore.Components.Authorization": "3.1.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "3.2.1",
@@ -2109,10 +2126,10 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "MailChimp.Net.V3": "3.0.0",
           "Microsoft.AspNetCore.WebUtilities": "2.2.0",
           "Newtonsoft.Json": "13.0.1",
-          "System.Data.SqlClient": "4.8.3",
-          "System.Linq.Queryable": "4.0.0"
+          "System.Data.SqlClient": "4.8.3"
         },
         "compile": {
           "bin/placeholder/Googlepromotion.Shared.dll": {}
@@ -2251,6 +2268,29 @@
         "lib/net40/MailChimp.dll",
         "mailchimp.net.1.1.92.nupkg.sha512",
         "mailchimp.net.nuspec"
+      ]
+    },
+    "MailChimp.Net.V3/3.0.0": {
+      "sha512": "CQTkF+eRz3Y4L4Kxlu9OumFAeaghFA6ZUElnaDuyYqNReZhTfCDrJ+kjE734Ao8apXQbyIihKFRD2RdWP+3StQ==",
+      "type": "package",
+      "path": "mailchimp.net.v3/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net451/MailChimp.Net.dll",
+        "lib/net46/MailChimp.Net.dll",
+        "lib/net461/MailChimp.Net.dll",
+        "lib/net47/MailChimp.Net.dll",
+        "lib/netstandard1.3/MailChimp.Net.dll",
+        "lib/netstandard1.4/MailChimp.Net.dll",
+        "lib/netstandard1.5/MailChimp.Net.dll",
+        "lib/netstandard1.6/MailChimp.Net.dll",
+        "lib/netstandard1.7/MailChimp.Net.dll",
+        "lib/netstandard1.8/MailChimp.Net.dll",
+        "lib/netstandard1.9/MailChimp.Net.dll",
+        "lib/netstandard2.0/MailChimp.Net.dll",
+        "mailchimp.net.v3.3.0.0.nupkg.sha512",
+        "mailchimp.net.v3.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication.Google/3.1.0": {
@@ -7280,6 +7320,7 @@
       "Googlepromotion.Client >= 1.0.0",
       "Googlepromotion.Shared >= 1.0.0",
       "MailChimp.NET >= 1.1.92",
+      "MailChimp.Net.V3 >= 3.0.0",
       "Microsoft.AspNetCore.Authentication.Google >= 3.1.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 3.2.1",
       "Microsoft.AspNetCore.WebUtilities >= 2.2.0",
@@ -7350,6 +7391,10 @@
           "MailChimp.NET": {
             "target": "Package",
             "version": "[1.1.92, )"
+          },
+          "MailChimp.Net.V3": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           },
           "Microsoft.AspNetCore.Authentication.Google": {
             "target": "Package",

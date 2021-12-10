@@ -993,6 +993,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Google.Apis.Auth.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Google.Apis.Core.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Google.Apis.Oauth2.v2.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\MailChimp.Net.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authentication.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authentication.Core.dll
@@ -1041,6 +1042,8 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Buffers.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Data.SqlClient.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Memory.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
@@ -1051,6 +1054,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Xml.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Security.Permissions.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Security.Principal.Windows.dll
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
@@ -1291,12 +1295,9 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.RazorTargetAssemblyInfo.cache
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.pdb
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Data.SqlClient.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\YGDmChrSgN534V_ynxDu5ul7JLNbGGmycqLDF4zV9DY=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\TAvgc3BlmxSWYn5w_AEi-c2lY9kohhaIg0fbgdoe7Q8=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\m2DwYEnpjLphNX9v44qJ4OOWCMApNy4OPrhmPfwTjok=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\N8lSK120Yb8ZszoICBLO89fkZssmWXCRXcgYQ0HjHck=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\DYLkI_vo_iNZY8WFj6TqXAcVtT50QOguIv71CtVkJAo=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\vZBQFbP_geEwb7Ro7xKRO_VWHKDEB9AasG2M6l072Mc=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\vDg3L0dDIhwmaC1CDAeS1kbHGi7JqFs6FjZ5JzPjY4Y=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.csproj.CopyComplete
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\uIn8VdeBIzNLK8ClkUWa-Boy9GJxIJWbINZIKhGc76I=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\J6LABYSVJEO7bpCC7gs6gpvkHLLA64X6EF090WTvV1E=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\v-rdU6d-pim-ffsubc024XWQP2O8OEWuF4QAAz84ggc=.hash
