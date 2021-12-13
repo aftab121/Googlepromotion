@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <PackageReference Include="Blazored.SessionStorage" Version="2.2.0" />
-    <PackageReference Include="MailChimp.NET" Version="1.1.92" />
     <PackageReference Include="MailChimp.Net.V3" Version="3.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="3.2.1" />
@@ -15,7 +14,6 @@
     <PackageReference Include="Nancy" Version="2.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
-    <PackageReference Include="System.Linq.Queryable" Version="4.0.0" />
   </ItemGroup>
 
   <ItemGroup>

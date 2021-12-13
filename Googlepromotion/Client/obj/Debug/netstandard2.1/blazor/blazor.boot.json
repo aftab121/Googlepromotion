@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Googlepromotion.Client.dll": "sha256-DYLkI+vo+iNZY8WFj6TqXAcVtT50QOguIv71CtVkJAo=",
+      "Googlepromotion.Client.dll": "sha256-QDKoSQW1JWSh6RsYaiOTIerGFoFl33nxFtcvxZSv\/mM=",
       "Microsoft.CSharp.dll": "sha256-ubyINHXDmWOAugBDEb8CCz+uV68eordXiYDxpUeRBvg=",
       "System.Core.dll": "sha256-Zw2\/5aDWjgMedporhjigwhi\/UCLcfl0tfa0LXUyD9HE=",
       "System.dll": "sha256-r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=",
@@ -48,7 +48,7 @@
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-xCWT+yJdttcPshhrsg20ryKTmo4J9CwnPKadM4l2tTs=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-nXCKZ3lsqnepGJm08nR9d17aKVnlGpqQHHexvRCuj6M=",
-      "Googlepromotion.Shared.dll": "sha256-m2DwYEnpjLphNX9v44qJ4OOWCMApNy4OPrhmPfwTjok=",
+      "Googlepromotion.Shared.dll": "sha256-ZA50RvrLIetV9UjE8gX+1j6by1kBnq37lfssBQnmvh4=",
       "Blazored.SessionStorage.dll": "sha256-bMGfld4CY2H49UjCGiz6JUKbEYHqz9eAejy81PaluPo=",
       "Microsoft.Extensions.Options.dll": "sha256-\/KxO88LopcmCHlL\/8RLjXokuiCcxIz7RRGWqNaIlI2E=",
       "Microsoft.JSInterop.dll": "sha256-htT9hyXFg6CAnViWMo4MM0tqQn7KspCErLDZKrDGhpM=",
@@ -65,8 +65,8 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "Googlepromotion.Client.pdb": "sha256-vZBQFbP+geEwb7Ro7xKRO+VWHKDEB9AasG2M6l072Mc=",
-      "Googlepromotion.Shared.pdb": "sha256-N8lSK120Yb8ZszoICBLO89fkZssmWXCRXcgYQ0HjHck="
+      "Googlepromotion.Client.pdb": "sha256-MyEui4800TLU9hxYaK8yrmkqC\/64zhIsibbvOLtjBJI=",
+      "Googlepromotion.Shared.pdb": "sha256-aPJWrRi1RGJiyjaUOhbQhwkz0KZXZLSc1DID2SU3ADQ="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

@@ -812,15 +812,6 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "System.Linq.Queryable/4.0.0": {
-        "type": "package",
-        "compile": {
-          "ref/net45/_._": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
-        }
-      },
       "System.Memory/4.5.4": {
         "type": "package",
         "dependencies": {
@@ -2747,40 +2738,6 @@
         "version.txt"
       ]
     },
-    "System.Linq.Queryable/4.0.0": {
-      "sha512": "DIlvCNn3ucFvwMMzXcag4aFnFJ1fdxkQ5NqwJe9Nh7y8ozzhDm07YakQL/yoF3P1dLzY1T2cTpuwbAmVSdXyBA==",
-      "type": "package",
-      "path": "system.linq.queryable/4.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/dotnet/System.Linq.Queryable.dll",
-        "lib/net45/_._",
-        "lib/netcore50/System.Linq.Queryable.dll",
-        "lib/win8/_._",
-        "lib/wp80/_._",
-        "lib/wpa81/_._",
-        "ref/dotnet/System.Linq.Queryable.dll",
-        "ref/dotnet/System.Linq.Queryable.xml",
-        "ref/dotnet/de/System.Linq.Queryable.xml",
-        "ref/dotnet/es/System.Linq.Queryable.xml",
-        "ref/dotnet/fr/System.Linq.Queryable.xml",
-        "ref/dotnet/it/System.Linq.Queryable.xml",
-        "ref/dotnet/ja/System.Linq.Queryable.xml",
-        "ref/dotnet/ko/System.Linq.Queryable.xml",
-        "ref/dotnet/ru/System.Linq.Queryable.xml",
-        "ref/dotnet/zh-hans/System.Linq.Queryable.xml",
-        "ref/dotnet/zh-hant/System.Linq.Queryable.xml",
-        "ref/net45/_._",
-        "ref/netcore50/System.Linq.Queryable.dll",
-        "ref/netcore50/System.Linq.Queryable.xml",
-        "ref/win8/_._",
-        "ref/wp80/_._",
-        "ref/wpa81/_._",
-        "system.linq.queryable.4.0.0.nupkg.sha512",
-        "system.linq.queryable.nuspec"
-      ]
-    },
     "System.Memory/4.5.4": {
       "sha512": "1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
       "type": "package",
@@ -3265,7 +3222,6 @@
       "Microsoft.CSharp >= 4.7.0",
       "Newtonsoft.Json >= 13.0.1",
       "System.Data.SqlClient >= 4.8.3",
-      "System.Linq.Queryable >= 4.0.0",
       "System.Net.Http.Json >= 3.2.0"
     ]
   },
@@ -3374,10 +3330,6 @@
             "target": "Package",
             "version": "[4.8.3, )"
           },
-          "System.Linq.Queryable": {
-            "target": "Package",
-            "version": "[4.0.0, )"
-          },
           "System.Net.Http.Json": {
             "target": "Package",
             "version": "[3.2.0, )"
@@ -3401,17 +3353,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Linq.Queryable 4.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.1'. This package may not be fully compatible with your project.",
-      "libraryId": "System.Linq.Queryable",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }

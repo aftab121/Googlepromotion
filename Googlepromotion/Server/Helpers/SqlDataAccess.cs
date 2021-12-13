@@ -26,16 +26,11 @@ namespace Googlepromotion.Server.Helper
         public SqlConnection GetConnection()
         {
             connection = new SqlConnection("Data Source = MAC; Initial Catalog = Googlepromotion; Integrated Security = True;");
-
-            // connection = new SqlConnection("Data Source=.\\SQLEXPRESS;Initial Catalog=GooglePromotion;User ID=sa;Password=sa@123;");
-            
                 return connection;
         }
         public SqlConnection GetConnection(string DatabaseName)
         {
-          
             connection = new SqlConnection("Data Source = MAC; Initial Catalog = Googlepromotion; Integrated Security = True;");
-
             return connection;
         }
 
@@ -72,7 +67,6 @@ namespace Googlepromotion.Server.Helper
             connection.Close();
             if (OpenConnection() == true)
             {
-              //  Querys = "Insert into User_Contacts values ('test.nextolive@gmail.com','2021-01-01 00:00:00.000','sk@gmail.com')";
                 SqlCommand cmd = new SqlCommand(Querys, connection);
                 result = cmd.ExecuteNonQuery();
                 CloseConnection();

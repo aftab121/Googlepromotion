@@ -66,18 +66,6 @@
           "lib/netstandard2.0/Google.Apis.Oauth2.v2.dll": {}
         }
       },
-      "MailChimp.NET/1.1.92": {
-        "type": "package",
-        "dependencies": {
-          "ServiceStack.Text": "[3.9.71]"
-        },
-        "compile": {
-          "lib/net40/MailChimp.dll": {}
-        },
-        "runtime": {
-          "lib/net40/MailChimp.dll": {}
-        }
-      },
       "MailChimp.Net.V3/3.0.0": {
         "type": "package",
         "dependencies": {
@@ -830,15 +818,6 @@
           }
         }
       },
-      "ServiceStack.Text/3.9.71": {
-        "type": "package",
-        "compile": {
-          "lib/net35/ServiceStack.Text.dll": {}
-        },
-        "runtime": {
-          "lib/net35/ServiceStack.Text.dll": {}
-        }
-      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1274,15 +1253,6 @@
         },
         "runtime": {
           "lib/netstandard1.6/System.Linq.Expressions.dll": {}
-        }
-      },
-      "System.Linq.Queryable/4.0.0": {
-        "type": "package",
-        "compile": {
-          "ref/net45/_._": {}
-        },
-        "runtime": {
-          "lib/net45/_._": {}
         }
       },
       "System.Net.Http/4.3.0": {
@@ -2112,7 +2082,6 @@
           "Microsoft.CSharp": "4.7.0",
           "Newtonsoft.Json": "13.0.1",
           "System.Data.SqlClient": "4.8.3",
-          "System.Linq.Queryable": "4.0.0",
           "System.Net.Http.Json": "3.2.0"
         },
         "compile": {
@@ -2255,19 +2224,6 @@
         "lib/netstandard2.0/Google.Apis.Oauth2.v2.dll",
         "lib/netstandard2.0/Google.Apis.Oauth2.v2.pdb",
         "lib/netstandard2.0/Google.Apis.Oauth2.v2.xml"
-      ]
-    },
-    "MailChimp.NET/1.1.92": {
-      "sha512": "/yY9HRaGFHq9cWQnvm5/ZEZ0PeIw+BwgDechLMnxddGPXVrKhcKEy9bX48Tp05MziCrRhWt7p9YoMSRfN6201w==",
-      "type": "package",
-      "path": "mailchimp.net/1.1.92",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net35/MailChimp.dll",
-        "lib/net40/MailChimp.dll",
-        "mailchimp.net.1.1.92.nupkg.sha512",
-        "mailchimp.net.nuspec"
       ]
     },
     "MailChimp.Net.V3/3.0.0": {
@@ -3473,25 +3429,6 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
-      ]
-    },
-    "ServiceStack.Text/3.9.71": {
-      "sha512": "+nIZF3d2o50W4/DjtfN21AzH1shaRlEiixgFISx3v5WD4WJVRd3WLmW75+SIiPOnCQAoZ+zbGX91hrBNkx+7xg==",
-      "type": "package",
-      "path": "servicestack.text/3.9.71",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net35/ServiceStack.Text.XML",
-        "lib/net35/ServiceStack.Text.dll",
-        "lib/sl4-windowsphone71/ServiceStack.Text.WP.XML",
-        "lib/sl4-windowsphone71/ServiceStack.Text.WP.dll",
-        "lib/sl4/ServiceStack.Text.dll",
-        "lib/sl4/ServiceStack.Text.xml",
-        "lib/sl5/ServiceStack.Text.XML",
-        "lib/sl5/ServiceStack.Text.dll",
-        "servicestack.text.3.9.71.nupkg.sha512",
-        "servicestack.text.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -4943,40 +4880,6 @@
         "runtimes/aot/lib/netcore50/System.Linq.Expressions.dll",
         "system.linq.expressions.4.3.0.nupkg.sha512",
         "system.linq.expressions.nuspec"
-      ]
-    },
-    "System.Linq.Queryable/4.0.0": {
-      "sha512": "DIlvCNn3ucFvwMMzXcag4aFnFJ1fdxkQ5NqwJe9Nh7y8ozzhDm07YakQL/yoF3P1dLzY1T2cTpuwbAmVSdXyBA==",
-      "type": "package",
-      "path": "system.linq.queryable/4.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/dotnet/System.Linq.Queryable.dll",
-        "lib/net45/_._",
-        "lib/netcore50/System.Linq.Queryable.dll",
-        "lib/win8/_._",
-        "lib/wp80/_._",
-        "lib/wpa81/_._",
-        "ref/dotnet/System.Linq.Queryable.dll",
-        "ref/dotnet/System.Linq.Queryable.xml",
-        "ref/dotnet/de/System.Linq.Queryable.xml",
-        "ref/dotnet/es/System.Linq.Queryable.xml",
-        "ref/dotnet/fr/System.Linq.Queryable.xml",
-        "ref/dotnet/it/System.Linq.Queryable.xml",
-        "ref/dotnet/ja/System.Linq.Queryable.xml",
-        "ref/dotnet/ko/System.Linq.Queryable.xml",
-        "ref/dotnet/ru/System.Linq.Queryable.xml",
-        "ref/dotnet/zh-hans/System.Linq.Queryable.xml",
-        "ref/dotnet/zh-hant/System.Linq.Queryable.xml",
-        "ref/net45/_._",
-        "ref/netcore50/System.Linq.Queryable.dll",
-        "ref/netcore50/System.Linq.Queryable.xml",
-        "ref/win8/_._",
-        "ref/wp80/_._",
-        "ref/wpa81/_._",
-        "system.linq.queryable.4.0.0.nupkg.sha512",
-        "system.linq.queryable.nuspec"
       ]
     },
     "System.Net.Http/4.3.0": {
@@ -7319,15 +7222,13 @@
       "Blazored.SessionStorage >= 2.2.0",
       "Googlepromotion.Client >= 1.0.0",
       "Googlepromotion.Shared >= 1.0.0",
-      "MailChimp.NET >= 1.1.92",
       "MailChimp.Net.V3 >= 3.0.0",
       "Microsoft.AspNetCore.Authentication.Google >= 3.1.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 3.2.1",
       "Microsoft.AspNetCore.WebUtilities >= 2.2.0",
       "Nancy >= 2.0.0",
       "Newtonsoft.Json >= 13.0.1",
-      "System.Data.SqlClient >= 4.8.3",
-      "System.Linq.Queryable >= 4.0.0"
+      "System.Data.SqlClient >= 4.8.3"
     ]
   },
   "packageFolders": {
@@ -7388,10 +7289,6 @@
             "target": "Package",
             "version": "[2.2.0, )"
           },
-          "MailChimp.NET": {
-            "target": "Package",
-            "version": "[1.1.92, )"
-          },
           "MailChimp.Net.V3": {
             "target": "Package",
             "version": "[3.0.0, )"
@@ -7419,10 +7316,6 @@
           "System.Data.SqlClient": {
             "target": "Package",
             "version": "[4.8.3, )"
-          },
-          "System.Linq.Queryable": {
-            "target": "Package",
-            "version": "[4.0.0, )"
           }
         },
         "imports": [
@@ -7452,37 +7345,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'MailChimp.NET 1.1.92' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "MailChimp.NET",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'ServiceStack.Text 3.9.71' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "ServiceStack.Text",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Linq.Queryable 4.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "System.Linq.Queryable",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

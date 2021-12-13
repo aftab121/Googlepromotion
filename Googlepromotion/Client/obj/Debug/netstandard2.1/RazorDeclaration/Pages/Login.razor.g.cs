@@ -107,7 +107,6 @@ using Microsoft.AspNetCore.WebUtilities;
         }
         if (code != null && code != "")
         {
-            //GetAccessToken(code);
             var data = "hghgh";
         }
 
@@ -116,11 +115,11 @@ using Microsoft.AspNetCore.WebUtilities;
     {
         string clientId = "246162259773-vn416ss3gi6h8j444ch8gsllao8v45m9.apps.googleusercontent.com";
         string redirectUrl = "https://localhost:44320/Index";
-        // Response.Redirect("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
-
         //  NavManager.NavigateTo("https://accounts.google.com/o/oauth2/auth?redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "&scope=https://www.google.com/m8/feeds/&approval_prompt=force&access_type=offline");
 
-        string url = "https://accounts.google.com/o/oauth2/auth?scope=https://www.google.com/m8/feeds/  https://www.googleapis.com/auth/userinfo.email&redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "";
+         string url = "https://accounts.google.com/o/oauth2/auth?scope=https://www.google.com/m8/feeds/+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile&redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "";
+        //string url = "https://accounts.google.com/o/oauth2/auth?scope=https://www.google.com/m8/feeds/  https://www.googleapis.com/auth/userinfo.email  https://www.googleapis.com/auth/userinfo.profile&redirect_uri=" + redirectUrl + "&response_type=code&client_id=" + clientId + "";
+
         NavManager.NavigateTo(url);
     }
 

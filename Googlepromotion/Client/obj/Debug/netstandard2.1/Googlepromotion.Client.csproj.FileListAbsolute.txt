@@ -1143,6 +1143,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\xCWT_yJdttcPshhrsg20ryKTmo4J9CwnPKadM4l2tTs=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\nXCKZ3lsqnepGJm08nR9d17aKVnlGpqQHHexvRCuj6M=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\ZA50RvrLIetV9UjE8gX_1j6by1kBnq37lfssBQnmvh4=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\bMGfld4CY2H49UjCGiz6JUKbEYHqz9eAejy81PaluPo=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\-KxO88LopcmCHlL-8RLjXokuiCcxIz7RRGWqNaIlI2E=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\htT9hyXFg6CAnViWMo4MM0tqQn7KspCErLDZKrDGhpM=.hash
@@ -1157,6 +1158,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\aPJWrRi1RGJiyjaUOhbQhwkz0KZXZLSc1DID2SU3ADQ=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -1295,9 +1297,7 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.RazorTargetAssemblyInfo.cache
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.pdb
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\m2DwYEnpjLphNX9v44qJ4OOWCMApNy4OPrhmPfwTjok=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\N8lSK120Yb8ZszoICBLO89fkZssmWXCRXcgYQ0HjHck=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\DYLkI_vo_iNZY8WFj6TqXAcVtT50QOguIv71CtVkJAo=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\vZBQFbP_geEwb7Ro7xKRO_VWHKDEB9AasG2M6l072Mc=.hash
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\vDg3L0dDIhwmaC1CDAeS1kbHGi7JqFs6FjZ5JzPjY4Y=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\QDKoSQW1JWSh6RsYaiOTIerGFoFl33nxFtcvxZSv-mM=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\MyEui4800TLU9hxYaK8yrmkqC-64zhIsibbvOLtjBJI=.hash
+C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\q2Ocn2EAMebjpme_uQvd97ALtoxrqsLytOGYv9WlRfc=.hash
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.csproj.CopyComplete

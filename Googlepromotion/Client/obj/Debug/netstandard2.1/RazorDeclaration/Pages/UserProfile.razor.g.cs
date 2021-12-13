@@ -75,6 +75,7 @@ using Googlepromotion.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+    [Microsoft.AspNetCore.Components.LayoutAttribute(typeof(MainLayout))]
     [Microsoft.AspNetCore.Components.RouteAttribute("/Profile")]
     public partial class UserProfile : Microsoft.AspNetCore.Components.ComponentBase
     {

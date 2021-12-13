@@ -634,7 +634,6 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Google.Apis.Oauth2.v2.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\MailChimp.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\MailChimp.Net.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
@@ -665,7 +664,6 @@ C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepr
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Nancy.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
 C:\Users\upkar\Desktop\Current Google Promotion\Googlepromotion Current\Googlepromotion\Googlepromotion\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll

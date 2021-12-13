@@ -13,7 +13,6 @@ using System.Text;
 using Googlepromotion.Server.Services;
 using Nancy.Json;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Googlepromotion.Server.Controllers
 {
@@ -56,7 +55,7 @@ namespace Googlepromotion.Server.Controllers
                 AccessToken = accessToken,
                 RefreshToken = refreshToken
             };
-            RequestSettings settings = new RequestSettings("<var>YOUR_APPLICATION_NAME</var>", oAuthparameters);
+            RequestSettings settings = new RequestSettings("<var>Google Promotion</var>", oAuthparameters);
             ContactsRequest cr = new ContactsRequest(settings);
             ContactsQuery query = new ContactsQuery(ContactsQuery.CreateContactsUri("default"));
             query.NumberToRetrieve = 500;
@@ -68,9 +67,7 @@ namespace Googlepromotion.Server.Controllers
             {
                 foreach (EMail email in entry.Emails)
                 {
-                   
                     user.Add(new UserContacts() { Contact = email.Address });
-                    
                 }
             }
             contacts.AddRange(user);
@@ -80,7 +77,6 @@ namespace Googlepromotion.Server.Controllers
 
             }
             return "true";
-            
         }
         string url = "https://accounts.google.com/o/oauth2/token";
         public string ReceiveTokenGmail(string code)
@@ -108,7 +104,6 @@ namespace Googlepromotion.Server.Controllers
             }
             catch(Exception ex)
             {
-
             }
             return url;
         }
@@ -128,10 +123,7 @@ namespace Googlepromotion.Server.Controllers
         }
         public void GetuserProfile(string accesstoken)
         {
-            //  string url = "https://www.googleapis.com/oauth2/v1/userinfo?alt=json&access_token=" + accesstoken + "";
             string url = "https://www.googleapis.com/oauth2/v3/userinfo?alt=json&access_token=" + accesstoken + "";
-
-            
             WebRequest request = WebRequest.Create(url);
             request.Credentials = CredentialCache.DefaultCredentials;
             WebResponse response = request.GetResponse();

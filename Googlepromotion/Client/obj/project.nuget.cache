@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6IyHXggl5a6GEyYglLp2EdqP+vyBH9KlD9oZiE9lLPHIzbSAS7t1rsVF7GMzOSkS0DRCBK88DWiCc6KDKG9PwQ==",
+  "dgSpecHash": "PSqZdxDtaS/uWQCgMJxjFzuOq7TFzRHVlwzJ/gpkUehadYekg1BqZcvIv6o51xMFDxv3JWJYEztyZKKFtlbACA==",
   "success": true,
   "projectFilePath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
   "expectedPackageFiles": [
@@ -69,7 +69,6 @@
     "C:\\Users\\upkar\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
-    "C:\\Users\\upkar\\.nuget\\packages\\system.linq.queryable\\4.0.0\\system.linq.queryable.4.0.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
@@ -85,16 +84,5 @@
     "C:\\Users\\upkar\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Linq.Queryable 4.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.1'. This package may not be fully compatible with your project.",
-      "libraryId": "System.Linq.Queryable",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  "logs": []
 }
