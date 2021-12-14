@@ -1543,6 +1543,7 @@ C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandar
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\iJtujpK3BZOuWeVJxpmQoFBx0OGK4SkW9QsnlrWLzew=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\ubyINHXDmWOAugBDEb8CCz_uV68eordXiYDxpUeRBvg=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
@@ -1599,12 +1600,14 @@ C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandar
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\WPl3PqredJfk1K-E8LoZ7Nvn7BcoRTyvdmcXqEKxQqk=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\OOh71UJFvYDMdRkHizlpQhYz-SXw8B7xo_07zNu-yUM=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\WSWD9v0IxS_0647L-Kq2hXm2CCqQeqYHCyG3m_eJkT8=.hash
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Googlepromotion.Client.dll.gz
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.CSharp.dll.gz
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
@@ -1739,6 +1742,3 @@ C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandar
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.csproj.CopyComplete
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.dll
 C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\Googlepromotion.Client.pdb
-C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\iJtujpK3BZOuWeVJxpmQoFBx0OGK4SkW9QsnlrWLzew=.hash
-C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\WPl3PqredJfk1K-E8LoZ7Nvn7BcoRTyvdmcXqEKxQqk=.hash
-C:\Users\upkar\Desktop\Testing GData\Googlepromotion\Client\obj\Debug\netstandard2.1\integrity\WSWD9v0IxS_0647L-Kq2hXm2CCqQeqYHCyG3m_eJkT8=.hash

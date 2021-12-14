@@ -25,12 +25,12 @@ namespace Googlepromotion.Server.Helper
         
         public SqlConnection GetConnection()
         {
-            connection = new SqlConnection("Data Source = MAC; Initial Catalog = Googlepromotion; Integrated Security = True;");
+            connection = new SqlConnection("Data Source = .; Initial Catalog = Googlepromotion; Integrated Security = True;");
                 return connection;
         }
         public SqlConnection GetConnection(string DatabaseName)
         {
-            connection = new SqlConnection("Data Source = MAC; Initial Catalog = Googlepromotion; Integrated Security = True;");
+            connection = new SqlConnection("Data Source = .; Initial Catalog = Googlepromotion; Integrated Security = True;");
             return connection;
         }
 
