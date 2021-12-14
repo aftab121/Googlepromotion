@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSqZdxDtaS/uWQCgMJxjFzuOq7TFzRHVlwzJ/gpkUehadYekg1BqZcvIv6o51xMFDxv3JWJYEztyZKKFtlbACA==",
+  "dgSpecHash": "GHKlWyk/eB6d406K3tUIAed99AUaMe2vay73g3Pz0E8Myhg7mzy5UsXobx/eWJJz1nP1U8carQnUf7IJLWfZ0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
+  "projectFilePath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\upkar\\.nuget\\packages\\blazored.sessionstorage\\2.2.0\\blazored.sessionstorage.2.2.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",

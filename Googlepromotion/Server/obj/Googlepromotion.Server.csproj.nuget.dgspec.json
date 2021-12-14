@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Server\\Googlepromotion.Server.csproj": {}
+    "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Server\\Googlepromotion.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj": {
+    "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\Googlepromotion.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
+        "projectUniqueName": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
         "projectName": "Googlepromotion.Client",
-        "projectPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
+        "projectPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\Googlepromotion.Client.csproj",
         "packagesPath": "C:\\Users\\upkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\obj\\",
+        "outputPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj": {
-                "projectPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj"
+              "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj": {
+                "projectPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Server\\Googlepromotion.Server.csproj": {
+    "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Server\\Googlepromotion.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Server\\Googlepromotion.Server.csproj",
+        "projectUniqueName": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Server\\Googlepromotion.Server.csproj",
         "projectName": "Googlepromotion.Server",
-        "projectPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Server\\Googlepromotion.Server.csproj",
+        "projectPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Server\\Googlepromotion.Server.csproj",
         "packagesPath": "C:\\Users\\upkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Server\\obj\\",
+        "outputPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -158,11 +158,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj": {
-                "projectPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Client\\Googlepromotion.Client.csproj"
+              "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\Googlepromotion.Client.csproj": {
+                "projectPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Client\\Googlepromotion.Client.csproj"
               },
-              "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj": {
-                "projectPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj"
+              "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj": {
+                "projectPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj"
               }
             }
           }
@@ -181,6 +181,14 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Google.GData.Client": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Google.GData.Contacts": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "MailChimp.Net.V3": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -196,6 +204,10 @@
             "Microsoft.AspNetCore.WebUtilities": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.1, )"
             },
             "Nancy": {
               "target": "Package",
@@ -238,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj": {
+    "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj",
         "projectName": "Googlepromotion.Shared",
-        "projectPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj",
+        "projectPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj",
         "packagesPath": "C:\\Users\\upkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

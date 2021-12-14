@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IAvVNEXbaC0wmNA/sypmjURs48sG0+B74Rhx5l2aNU2mKTDqYtzC/NwO0yTARm0Fco9CQ18D7meGwWPETxYPGQ==",
+  "dgSpecHash": "WhUqfOaPHO7F9gyvOLWjmK5/Bv4IKO97BJS3q4ALXH04A1mOGEtKnxyP96Bqu4yYjqr26WCMokXsf+bY+eMorg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\upkar\\Desktop\\Current Google Promotion\\Googlepromotion Current\\Googlepromotion\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj",
+  "projectFilePath": "C:\\Users\\upkar\\Desktop\\Testing GData\\Googlepromotion\\Shared\\Googlepromotion.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\upkar\\.nuget\\packages\\mailchimp.net.v3\\3.0.0\\mailchimp.net.v3.3.0.0.nupkg.sha512",
     "C:\\Users\\upkar\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",

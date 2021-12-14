@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
-using Google.GData.Extensions;
 using Googlepromotion.Server.Helper;
 using Googlepromotion.Shared.Models;
 using Microsoft.VisualBasic.CompilerServices;
